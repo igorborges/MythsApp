@@ -3,14 +3,14 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mythssoccer"
+    namespace = "com.igorbresende.mythssoccer"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.mythssoccer"
+        applicationId = "com.igorbresende.mythssoccer"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
+        versionCode = 2
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"

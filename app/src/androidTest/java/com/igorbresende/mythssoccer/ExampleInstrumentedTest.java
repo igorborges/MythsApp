@@ -1,4 +1,4 @@
-package com.example.mythssoccer;
+package com.igorbresende.mythssoccer;
 
 import android.content.Context;
 
